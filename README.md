@@ -9,9 +9,9 @@
 
 **HTML**
 
-- [ ] html tags
-- [ ] head tags
-- [ ] body tags
+- [x ] html tags
+- [x ] head tags
+- [x ] body tags
 - [ ] h & p tags
 - [ ] indentation
 
