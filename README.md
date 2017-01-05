@@ -12,8 +12,8 @@
 - [x ] html tags
 - [x ] head tags
 - [x ] body tags
-- [ ] h & p tags
-- [ ] indentation
+- [x ] h & p tags
+- [x ] indentation
 
 **CSS**
 
